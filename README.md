@@ -38,6 +38,45 @@ Where:
 > But still finished the task, made a working plot, committed it, and pushed it live.  
 > Not fast, not clean — but DONE.
 
+
+## 📅 17-06-2025 — Day 2 (Lite Sprint)
+
+### ✅ Task:
+- [x] Rewrite projectile sim using arrays and vectorized math
+
+---
+
+### 🧠 NumPy Basics Learned
+- Imported using `import numpy as np`
+- Arrays created via: `a = np.array([1, 2, 3, 4])`
+- Indexing is 0-based: `a[2]` returns `3`
+- Slicing: `a[:3]` gives `array([1, 2, 3])`
+- For 2D arrays: `a[n, m]` → `n = row`, `m = column`
+
+#### 🔍 Array attributes:
+- `a.ndim` → tells number of dimensions
+- `a.shape` → [*TO DO tomorrow*] didn’t get to it yet
+
+---
+
+### 🧠 Realization of the Day
+At first, I thought vectorizing this code was pointless. I was like:
+> "Why the hell am I doing this again?"
+
+Then I realized:  
+The code I wrote **yesterday** was already vectorized.  
+I was using `t = np.linspace(...)`, and the whole equation worked on arrays directly.
+
+Turns out ChatGPT set me up to understand this on my own.  
+That hit harder than any syntax lesson.
+
+---
+
+### ⚠️ Notes
+- No LaTeX today either — ran out of time
+- Didn’t do multi‑u plots or for-loops — will stack that with Day 3
+- Will finish NumPy attributes + play with shapes in next sprint
+
 ---
 
 ## 🔧 Folder Contents
