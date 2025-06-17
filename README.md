@@ -38,6 +38,19 @@ Where:
 > But still finished the task, made a working plot, committed it, and pushed it live.  
 > Not fast, not clean — but DONE.
 
+## 🔮 Coming Up
+
+- [ ] Day 2: NumPy vector ops + converting sim to full array math
+- [ ] Day 3: Matplotlib styling + RK4 simulation
+- [ ] More physics-based Python projects
+
+---
+
+## ⚔️ Motivation
+
+> I'm not a CS guy. I'm a physics student with no background.  
+> But I will build real tools for research — and I’ll leave all excuses behind.
+
 
 ## 📅 17-06-2025 — Day 2 (Lite Sprint)
 
@@ -87,17 +100,3 @@ That hit harder than any syntax lesson.
 | `README.md` | This file — logs my daily sprint progress |
 
 ---
-
-## 🔮 Coming Up
-
-- [ ] Day 2: NumPy vector ops + converting sim to full array math
-- [ ] Day 3: Matplotlib styling + RK4 simulation
-- [ ] More physics-based Python projects
-
----
-
-## ⚔️ Motivation
-
-> I'm not a CS guy. I'm a physics student with no background.  
-> But I will build real tools for research — and I’ll leave all excuses behind.
-
